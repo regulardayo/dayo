@@ -165,7 +165,7 @@
     padding: 15px 20px;
     position: absolute;
     bottom: 40px;
-    left: 110px;
+    left: 120px;
 }
 .nav-link2{
     display: flex;
@@ -245,4 +245,5 @@
         right: 100px;
         bottom: 20px;
     }
+
 }
